@@ -22,6 +22,8 @@ A **simple, stylish, and fully responsive** digital **stopwatch** built using **
 
 ## 📸 Screenshots
 
+![stop1](https://github.com/user-attachments/assets/9c64d4fe-df6f-4ebd-8ccf-8c54a6ef1da2)
+
 ---
 
 
