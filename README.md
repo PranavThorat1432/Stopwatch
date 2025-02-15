@@ -16,7 +16,7 @@ A **simple, stylish, and fully responsive** digital **stopwatch** built using **
 
 ## 🎥 Demo
 
-🌐 **Live Preview:** [Click here to view](#) _(Replace `#` with your deployed link)_
+🌐 **Live Preview:** [Click here to view](https://stopwatch-vert-beta.vercel.app/)
 
 ---
 
